@@ -1,0 +1,23 @@
+{
+  "name": "jsondisplay",
+  "version": "1.0.0",
+  "description": "json display",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helloasir/jsondisplay.git"
+  },
+  "keywords": [
+    "json",
+    "diplay"
+  ],
+  "author": "helloasir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helloasir/jsondisplay/issues"
+  },
+  "homepage": "https://github.com/helloasir/jsondisplay#readme"
+}
